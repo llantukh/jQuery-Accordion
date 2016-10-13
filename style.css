@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  height: 545px;
+  width: 600px;
+  margin: 30px auto; }
+
+div {
+  border: 1px solid #21C6D5; }
+
+.heading {
+  background: #21C6D5;
+  color: white;
+  margin-top: 0px;
+  padding: 10px;
+  font-size: 20px; }
+
+.info {
+  padding-left: 10px; }
