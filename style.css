@@ -13,8 +13,13 @@ div {
   background: #21C6D5;
   color: white;
   margin-top: 0px;
+  margin-bottom: 0px;
   padding: 10px;
   font-size: 20px; }
 
-.info {
-  padding-left: 10px; }
+.content {
+  padding-left: 10px;
+  margin: 0px;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 1s ease; }
