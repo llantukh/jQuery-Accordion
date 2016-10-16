@@ -23,3 +23,9 @@ div {
   max-height: 0px;
   overflow: hidden;
   transition: max-height 1s ease; }
+
+.open {
+  max-height: 200px; }
+
+.close {
+  max-height: 0px; }
